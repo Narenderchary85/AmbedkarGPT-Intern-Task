@@ -9,9 +9,10 @@
 
 ## Setup Instructions
 
-### 1. Clone the repository
-git clone https://github.com/Narenderchary85/AmbedkarGPT-Intern-Task
-cd AmbedkarGPT-Intern-Task
+** 1. Clone the repository **
+    ```bash
+            git clone https://github.com/Narenderchary85/AmbedkarGPT-Intern-Task
+            cd AmbedkarGPT-Intern-Task
 
 ### 2. Create virtual environment
 python -m venv venv
